@@ -1,7 +1,7 @@
 
 #-Begin-----------------------------------------------------------------
 #-
-#- Excel document creator
+#- Excel document cretor
 #-
 #- Creates different types of table documents automatically with
 #- different count of sheets
