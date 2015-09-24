@@ -4,7 +4,7 @@
 #- Word document creator
 #-
 #- Creates different types of text documents automatically, with
-#- differnt count of pages and optional with a picture
+#- different count of pages and optional with a picture
 #-
 #- Author: Stefan Schnell
 #-
