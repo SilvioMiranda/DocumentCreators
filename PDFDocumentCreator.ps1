@@ -1,7 +1,7 @@
 
 #-Begin-----------------------------------------------------------------
 #-
-#- Text document creator
+#- PDF document creator
 #-
 #- Important hint: This script uses Debenu ActiveX Quick PDF Library
 #- Lite, you can find it here:
