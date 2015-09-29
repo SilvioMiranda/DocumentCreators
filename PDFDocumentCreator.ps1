@@ -43,7 +43,7 @@
   #- pages and optional with a picture
   #-
   #---------------------------------------------------------------------
-    Function Create-TextDoc($cntPages, $PictureName) {
+    Function Create-PDFDoc($cntPages, $PictureName) {
 
       If ($PictureName -eq $Null) {
         $WithPicture = $False
@@ -87,7 +87,7 @@
   #-Sub Main------------------------------------------------------------
     Function Main() {
 
-      Create-TextDoc 10 "Gonzo.jpg"
+      Create-PDFDoc 10 "Gonzo.jpg"
 
     }
 
