@@ -6,6 +6,8 @@
 #- Important hint: This script uses Debenu ActiveX Quick PDF Library
 #- Lite, you can find it here:
 #- http://www.debenu.com/products/development/debenu-pdf-library-lite/
+#- You can find the forum for Quick PDF Library here:
+#- http://www.quickpdf.org/forum/
 #-
 #- Important hint: To use the ActiveX library it is necessary to build
 #- an interoperability library via type library importer TlbImp.exe.
